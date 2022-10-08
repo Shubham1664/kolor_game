@@ -1,0 +1,45 @@
+.banner
+{
+    height: 250px;
+    background-color: aqua;
+}
+
+.container
+{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    
+}
+.one
+{
+   
+    background-color: beige;
+    font-size: 15px;
+    margin-left: 10px;
+   
+    height: 100px;
+    width: 300px;
+    text-align: center;
+    border-radius: 10px;
+    
+}
+
+.circle {
+    display: flex;
+    flex-wrap: wrap;
+    height: 100px;
+    width: 400px;
+    margin: auto;
+
+}
+
+.choices
+{
+    border-radius: 50%; 
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+}
+
